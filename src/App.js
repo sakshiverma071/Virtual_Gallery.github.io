@@ -1,5 +1,5 @@
-import React  from 'react';
-import Content from './Component/Content';
+import React, { lazy }  from 'react';
+const Content = lazy(()=>import('./Component/Content'))
 
 //import Potrait from './Component/About';
 //import Navbar from './Component/Navbar.js';

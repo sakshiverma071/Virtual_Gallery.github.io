@@ -18,6 +18,7 @@ import Slider2 from "./Slider2";
 import Slider3 from "./Slider3";
 import Slider4 from "./Slider4";
 import Slider5 from "./Slider5";
+import Footer from "./Footer";
 
 
 function Content(){ 
@@ -29,6 +30,7 @@ function Content(){
          <div id="main">
          
         <div data-scroll data-scroll-speed="-5" id="page1" >
+          
         <Navbar></Navbar>
             <div className="bottom-page1">
                 <h1><span>Experience Virtual <br /> Art Gallery</span></h1>
@@ -42,6 +44,7 @@ something close to the meaning of life.” </h2>
             <video src={sak3} autoPlay loop muted ></video>
         </div>
         <div  id="page2"className="12" >
+          
             <div id="sa" className="col-5" >
             <h2>Modern Art</h2>
             <h1>“New needs need new techniques. And the modern artists have found new ways and new means of making their statements… the modern painter cannot express this age, the airplane, the atom bomb, the radio, in the old forms of the Renaissance or of any other past culture.” 
@@ -135,17 +138,17 @@ something close to the meaning of life.” </h2>
             </div>
             
         </div>
-
+       
         
 
 
         
-        
+        <Footer />
     </div>
     
    
     
-    function loco(){
+  function loco(){
         useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
 
@@ -324,7 +327,7 @@ function MyComponent() {
   function MyComponent() {
   useEffect(() => {
     const updateContent = () => {
-      const h1Element = document.querySelector("#page8>#sa>h1");
+      const h1Element = document.querySelector("#page9>#sa>h1");
       const content = h1Element.textContent;
       let clutter = "";
 
@@ -337,9 +340,9 @@ function MyComponent() {
 
     updateContent();
 
-    gsap.to("#page8>#sa>h1>span", {
+    gsap.to("#page9>#sa>h1>span", {
       scrollTrigger: {
-        trigger: `#page8>#sa>h1>span`,
+        trigger: `#page9>#sa>h1>span`,
         start: `top bottom`,
         end: `bottom top`,
         scroller: "#main",
