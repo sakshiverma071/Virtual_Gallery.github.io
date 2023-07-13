@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Virtual_Gallery.github.io/static/css/main.4399a20e.css",
-    "main.js": "/Virtual_Gallery.github.io/static/js/main.f1d1c6d8.js",
+    "main.css": "/Virtual_Gallery.github.io/static/css/main.07f07921.css",
+    "main.js": "/Virtual_Gallery.github.io/static/js/main.f78a89ed.js",
     "static/js/787.ea4a55fe.chunk.js": "/Virtual_Gallery.github.io/static/js/787.ea4a55fe.chunk.js",
     "static/media/sak3.mp4": "/Virtual_Gallery.github.io/static/media/sak3.37191c2013b8711aebc0.mp4",
     "static/media/potrait3.jpg": "/Virtual_Gallery.github.io/static/media/potrait3.e2e05fd48594dd8a18e8.jpg",
@@ -43,12 +43,12 @@
     "static/media/abstract4.jpeg": "/Virtual_Gallery.github.io/static/media/abstract4.528ee7ca86954e88a132.jpeg",
     "static/media/abstract9.jpeg": "/Virtual_Gallery.github.io/static/media/abstract9.869b50cd37ebfb7ad21b.jpeg",
     "index.html": "/Virtual_Gallery.github.io/index.html",
-    "main.4399a20e.css.map": "/Virtual_Gallery.github.io/static/css/main.4399a20e.css.map",
-    "main.f1d1c6d8.js.map": "/Virtual_Gallery.github.io/static/js/main.f1d1c6d8.js.map",
+    "main.07f07921.css.map": "/Virtual_Gallery.github.io/static/css/main.07f07921.css.map",
+    "main.f78a89ed.js.map": "/Virtual_Gallery.github.io/static/js/main.f78a89ed.js.map",
     "787.ea4a55fe.chunk.js.map": "/Virtual_Gallery.github.io/static/js/787.ea4a55fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4399a20e.css",
-    "static/js/main.f1d1c6d8.js"
+    "static/css/main.07f07921.css",
+    "static/js/main.f78a89ed.js"
   ]
 }
