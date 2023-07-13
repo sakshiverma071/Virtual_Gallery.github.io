@@ -2,6 +2,11 @@
     padding: 0 0.6rem;
     color: #868383
   }
+  @media (max-width: 500px) {
+    .Footer{
+        margin-top : 0 !important;
+    }
+  }
   
   .nav-item_ul a {
     font-size: 1.05rem;
