@@ -122,7 +122,7 @@ something close to the meaning of life.” </h2>
             </div>
             
         </div>
-        <div  id="page9" className="col-12">
+        <div data-scroll data-scroll-speed="-4" id="page9" className="col-12">
           
         <div id="ss" className="col-8">
           
